@@ -1,15 +1,14 @@
 {
-  "name": "Heiligenhaus",
+  "name": "Velbert",
   "url": "http://freifunk-neanderfunk.de/",
   "location": {
-    "city": "Heiligenhaus",
+    "city": "Velbert",
     "country": "DE",
-    "lat": 51.3264,
-    "lon": 6.97175
+    "lat": 51.34035,
+    "lon": 7.04267
   },
   "contact": {
-    "email": "heiligenhaus@neanderfunk.de",
-    "jabber": "binar@at-inet.de"
+    "email": "velbert@neanderfunk.de"
   },
   "metacommunity": "Neanderfunk",
   "state": {
@@ -19,7 +18,7 @@
       "Social Community Building",
       "Free internet access"
     ],
-    "lastchange": "2015-12-12T16:11:42.565Z"
+    "lastchange": "2015-12-12T22:31:42.565Z"
   },
   "api": "0.4.10",
   "techDetails": {
