@@ -1,0 +1,29 @@
+{
+  "name": "Heiligenhaus",
+  "url": "http://freifunk-neanderfunk.de/",
+  "location": {
+    "city": "Heiligenhaus",
+    "country": "DE",
+    "lat": 51.3264,
+    "lon": 6.97175
+  },
+  "contact": {
+    "email": "heiligenhaus@neanderfunk.de",
+    "jabber": "binar@at-inet.de"
+  },
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2015-12-12T16:11:42.565Z"
+  },
+  "api": "0.4.10",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
