@@ -1,0 +1,28 @@
+{
+  "name": "Freifunk Hilden",
+  "url": "https://www.facebook.com/freifunkhilden/",
+  "location": {
+    "city": "Hilden",
+    "country": "DE",
+    "lat": 51.1706,
+    "lon": 6.93841
+  },
+  "contact": {
+    "email": "freifunk.hilden@gmail.com",
+    "phone": "+491718406989 ",
+    "irc": "irc://irc.freenode.net/#ffrhein",
+    "facebook": "https://www.facebook.com/freifunkhilden/",
+    "twitter": "@ffhilden"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "lastchange": "2015-12-19T23:58:15.918Z",
+    "focus": []
+  },
+  "api": "0.4.10",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
