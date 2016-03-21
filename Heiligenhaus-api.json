@@ -16,15 +16,39 @@
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
-      "Social Community Building",
       "Free internet access"
     ],
-    "lastchange": "2015-12-12T16:11:42.565Z"
+    "lastchange": "2016-03-21T20:04:12.765Z"
   },
-  "api": "0.4.10",
+  "nodeMaps": [
+    {
+      "url": "https://hlg.karte.neanderfunk.de/",
+      "interval": "60s",
+      "mapType": "geographical"
+    }
+  ],
   "techDetails": {
-    "routing": [],
-    "updatemode": [],
-    "legals": []
-  }
+    "firmware": {
+      "name": "Gluon",
+      "url": "https://download.ffnef.de/firmware/stable/ffnef-hlg/",
+      "vpnaccess": "fwimage"
+    },
+    "dns": [
+      {
+        "domainname": "ffnef.de"
+      }
+    ],
+    "routing": [
+      "802.11s",
+      "batman-adv"
+    ],
+    "updatemode": [
+      "manual",
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational"
+    ]
+  },
+  "api": "0.4.12"
 }
