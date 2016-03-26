@@ -18,13 +18,12 @@
       "Public Free Wifi",
       "Free internet access"
     ],
-    "lastchange": "2016-03-21T20:04:12.765Z"
+    "lastchange": "2016-03-26T09:13:03.877Z"
   },
   "nodeMaps": [
     {
-      "url": "https://hlg.karte.neanderfunk.de/",
-      "interval": "60s",
-      "mapType": "geographical"
+      "url": "https://hlg.karte.neanderfunk.de/data/nodes.json",
+      "technicalType": "nodelist"
     }
   ],
   "techDetails": {

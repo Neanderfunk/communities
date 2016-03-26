@@ -18,8 +18,14 @@
       "Social Community Building",
       "Free internet access"
     ],
-    "lastchange": "2015-12-12T22:31:42.565Z"
+    "lastchange": "2016-03-26T22:55:42.565Z"
   },
+  "nodeMaps": [
+    {
+      "url": "https://vel.karte.neanderfunk.de/data/nodes.json",
+      "technicalType": "nodelist"
+    }
+  ],
   "api": "0.4.10",
   "techDetails": {
     "routing": [],

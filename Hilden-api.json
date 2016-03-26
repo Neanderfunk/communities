@@ -16,10 +16,16 @@
   },
   "metacommunity": "Neanderfunk",
   "state": {
-    "lastchange": "2015-12-19T23:58:15.918Z",
+    "lastchange": "2016-03-26T10:21:15.918Z",
     "focus": []
   },
   "api": "0.4.10",
+  "nodeMaps": [
+    {
+      "url": "https://hld.karte.neanderfunk.de/data/nodes.json",
+      "technicalType": "nodelist"
+    }
+  ],
   "techDetails": {
     "routing": [],
     "updatemode": [],
