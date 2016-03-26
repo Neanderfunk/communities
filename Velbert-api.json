@@ -22,7 +22,7 @@
   },
   "nodeMaps": [
     {
-      "url": "https://vel.karte.neanderfunk.de/data/nodes.json",
+      "url": "https://vel.karte.neanderfunk.de/data/nodelist.json",
       "technicalType": "nodelist"
     }
   ],

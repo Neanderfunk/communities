@@ -22,7 +22,7 @@
   "api": "0.4.10",
   "nodeMaps": [
     {
-      "url": "https://hld.karte.neanderfunk.de/data/nodes.json",
+      "url": "https://hld.karte.neanderfunk.de/data/nodelist.json",
       "technicalType": "nodelist"
     }
   ],
