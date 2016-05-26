@@ -1,0 +1,60 @@
+{
+  "name": "Freifunk Mettmann",
+  "url": "http://www.freifunk-mettmann.de",
+  "location": {
+    "city": "Mettmann",
+    "country": "DE",
+    "lat": 51.2558,
+    "lon": 6.9705
+  },
+  "contact": {
+    "email": "kontakt@freifunk-mettmann.de",
+    "phone": "+49 171 9502338",
+    "facebook": "https://www.facebook.com/Freifunk.Mettmann",
+    "twitter": "@FreifunkME"
+  },
+  "metacommunity": "Freifunk Rheinland e.V.",
+  "state": {
+    "nodes": 40,
+    "description": "Freifunk Mettmann ist Teil der Domaene Neanderfunk, einer Community im Verein Freifunk Rheinland e.V.. In Mettmann sind aktuell (Stand Maerz 2016) rund 40 Nodes aktiv. Die Ausstattung der gesamten (ueberschaubaren) Innenstadt wird weiter vorangetrieben. Unabhaengig davon bemuehen sich die Mettmanner Freifunker aktiv darum die Fluechtlingsunterkuenfte mit WLAN zu versorgen, was von der Stadt aktuell nicht unterstuetzt wird (keine Prio). Aktuell stehen wir in Kontakt mit der Caritas.",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2016-03-25T22:57:14.170Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://met.karte.neanderfunk.de/data/nodelist.json",
+      "technicalType": "nodelist"
+    }
+  ],
+  "support": {
+    "club": {
+      "name": "Freifunk Rheinland e.V.",
+      "street": "Eickener Strasse 83",
+      "zip": "41061",
+      "city": "Moenchengladbach",
+      "url": "https://freifunk-rheinland.net",
+      "email": "kontakt@freifunk-rheinland.net"
+    }
+  },
+  "techDetails": {
+    "firmware": {
+      "name": "Gluon",
+      "url": "https://download.ffnef.de/firmware/"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpnnational"
+    ]
+  },
+  "api": "0.4.12"
+}
