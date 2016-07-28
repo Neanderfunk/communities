@@ -1,0 +1,36 @@
+{
+  "name": "Freifunk Monheim am Rhein",
+  "url": "https://www.facebook.com/FreifunkMonheim",
+  "location": {
+    "city": "Monheim am Rhein",
+    "country": "DE",
+    "lat": 51.09166,
+    "lon": 6.89277
+  },
+  "contact": {
+    "email": "freifunk.john@icloud.com",
+    "phone": "+4915154727487",
+    "facebook": "https://www.facebook.com/FreifunkMonheim"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "focus": [
+      "Public Free Wifi"
+    ],
+    "lastchange": "2016-07-25T19:52:50.287Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://mon.karte.neanderfunk.de/data/nodelist.json",
+      "technicalType": "nodelist"
+    }
+  ],
+  "techDetails": {
+    "updatemode": [
+      "autoupdate"
+    ],
+    "routing": [],
+    "legals": []
+  },
+  "api": "0.4.14"
+}
