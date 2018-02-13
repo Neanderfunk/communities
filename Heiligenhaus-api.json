@@ -25,7 +25,7 @@
   },
   "nodeMaps": [
     {
-      "url": "https://han.karte.neanderfunk.de/data/nodelist.json",
+      "url": "https://hlg.karte.neanderfunk.de/data/nodelist.json",
       "technicalType": "hopglass"
     }
   ],
