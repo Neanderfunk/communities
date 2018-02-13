@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Haan",
-  "url": "http://freifunk-neanderfunk.de/",
+  "url": "https://haan.neanderfunk.de/",
   "location": {
     "city": "Haan",
     "country": "DE",
@@ -8,24 +8,42 @@
     "lon": 7.0066
   },
   "contact": {
-    "email": "freifunk.hilden@gmail.com",
-    "phone": "+491718406989"
+    "email": "haan@neanderfunk.de",
+    "facebook": "https://www.facebook.com/FF.Neanderfunk/",
+    "twitter": "@ff_neanderfunk"
   },
-  "metacommunity": "Neanderfunk",
+  "metacommunity": "Eulenfunk",
   "state": {
-    "lastchange": "2016-03-26T10:21:15.918Z",
-    "focus": []
+    "description": "Förderverein Freifunk im Neanderland e.V.",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-01-23T22:23:58.741Z"
   },
-  "api": "0.4.10",
   "nodeMaps": [
     {
       "url": "https://han.karte.neanderfunk.de/data/nodelist.json",
-      "technicalType": "nodelist"
+      "technicalType": "hopglass"
     }
   ],
+  "socialprojects": {
+    "contact": "kontakt@neanderfunk.de"
+  },
   "techDetails": {
-    "routing": [],
-    "updatemode": [],
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
     "legals": []
-  }
+  },
+  "api": "0.4.14"
 }

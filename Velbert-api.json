@@ -1,35 +1,45 @@
 {
-  "name": "Velbert",
-  "url": "http://freifunk-neanderfunk.de/",
+  "name": "Freifunk Velbert",
+  "url": "https://www.neanderfunk.de/",
   "location": {
-    "city": "Velbert",
+    "city": "Velbert, Neviges, Langenberg",
     "country": "DE",
-    "lat": 51.34035,
-    "lon": 7.04267
+    "lat": 51.33661771600667,
+    "lon": 7.0786285400390625
   },
   "contact": {
-    "email": "velbert@neanderfunk.de"
+    "email": "velbert@neanderfunk.de",
+    "facebook": "https://www.facebook.com/FF.Neanderfunk/",
+    "twitter": "@ff_neanderfunk"
   },
   "metacommunity": "Neanderfunk",
   "state": {
+    "description": "Förderverein Freifunk im Neanderland e.V.",
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
       "Social Community Building",
       "Free internet access"
     ],
-    "lastchange": "2016-03-26T22:55:42.565Z"
+    "lastchange": "2018-02-13T22:06:18.957Z"
   },
   "nodeMaps": [
     {
       "url": "https://vel.karte.neanderfunk.de/data/nodelist.json",
-      "technicalType": "nodelist"
+      "technicalType": "hopglass"
     }
   ],
-  "api": "0.4.10",
+  "socialprojects": {
+    "number": 1,
+    "contact": "kontakt@neanderfunk.de"
+  },
   "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de"
+    },
     "routing": [],
     "updatemode": [],
     "legals": []
-  }
+  },
+  "api": "0.4.14"
 }

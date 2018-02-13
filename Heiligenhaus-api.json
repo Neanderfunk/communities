@@ -1,6 +1,6 @@
 {
-  "name": "Heiligenhaus",
-  "url": "http://freifunk-neanderfunk.de/",
+  "name": "Freifunk Heiligenhaus",
+  "url": "https://heiligenhaus.neanderfunk.de/",
   "location": {
     "city": "Heiligenhaus",
     "country": "DE",
@@ -9,45 +9,41 @@
   },
   "contact": {
     "email": "heiligenhaus@neanderfunk.de",
-    "jabber": "binar@at-inet.de"
+    "facebook": "https://www.facebook.com/FF.Neanderfunk/",
+    "twitter": "@ff_neanderfunk"
   },
   "metacommunity": "Neanderfunk",
   "state": {
+    "description": "Förderverein Freifunk im Neanderland e.V.",
     "focus": [
       "infrastructure/backbone",
       "Public Free Wifi",
+      "Social Community Building",
       "Free internet access"
     ],
-    "lastchange": "2016-03-26T09:13:03.877Z"
+    "lastchange": "2018-01-23T22:28:01.629Z"
   },
   "nodeMaps": [
     {
-      "url": "https://hlg.karte.neanderfunk.de/data/nodelist.json",
-      "technicalType": "nodelist"
+      "url": "https://han.karte.neanderfunk.de/data/nodelist.json",
+      "technicalType": "hopglass"
     }
   ],
+  "socialprojects": {
+    "contact": "kontakt@neanderfunk.de"
+  },
   "techDetails": {
     "firmware": {
-      "name": "Gluon",
-      "url": "https://download.ffnef.de/firmware/stable/ffnef-hlg/",
-      "vpnaccess": "fwimage"
+      "url": "http://routersoftware.ffnef.de",
+      "vpnaccess": "automatic"
     },
-    "dns": [
-      {
-        "domainname": "ffnef.de"
-      }
-    ],
     "routing": [
-      "802.11s",
       "batman-adv"
     ],
     "updatemode": [
-      "manual",
       "autoupdate"
     ],
-    "legals": [
-      "vpnnational"
-    ]
+    "legals": []
   },
-  "api": "0.4.12"
+  "api": "0.4.14"
 }

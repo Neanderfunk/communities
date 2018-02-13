@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Hilden",
-  "url": "https://www.facebook.com/freifunkhilden/",
+  "url": "https://www.neanderfunk.de/",
   "location": {
     "city": "Hilden",
     "country": "DE",
@@ -8,27 +8,42 @@
     "lon": 6.93841
   },
   "contact": {
-    "email": "freifunk.hilden@gmail.com",
-    "phone": "+491718406989 ",
-    "irc": "irc://irc.freenode.net/#ffrhein",
-    "facebook": "https://www.facebook.com/freifunkhilden/",
+    "email": "hilden@neanderfunk.de",
+    "facebook": "https://www.facebook.com/FF.Neanderfunk/",
     "twitter": "@ffhilden"
   },
   "metacommunity": "Neanderfunk",
   "state": {
-    "lastchange": "2016-03-26T10:21:15.918Z",
-    "focus": []
+    "description": "Förderverein Freifunk im Neanderland e.V.",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-02-13T22:10:31.967Z"
   },
-  "api": "0.4.10",
   "nodeMaps": [
     {
       "url": "https://hld.karte.neanderfunk.de/data/nodelist.json",
-      "technicalType": "nodelist"
+      "technicalType": "hopglass"
     }
   ],
+  "socialprojects": {
+    "contact": "kontakt@neanderfunk.de"
+  },
   "techDetails": {
-    "routing": [],
-    "updatemode": [],
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
     "legals": []
-  }
+  },
+  "api": "0.4.14"
 }

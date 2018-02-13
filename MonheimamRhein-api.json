@@ -1,6 +1,6 @@
 {
-  "name": "Freifunk Monheim am Rhein",
-  "url": "https://www.facebook.com/FreifunkMonheim",
+  "name": "Monheim am Rhein",
+  "url": "https://www.neanderfunk.de",
   "location": {
     "city": "Monheim am Rhein",
     "country": "DE",
@@ -8,28 +8,37 @@
     "lon": 6.89277
   },
   "contact": {
-    "email": "freifunk.john@icloud.com",
-    "phone": "+4915154727487",
-    "facebook": "https://www.facebook.com/FreifunkMonheim"
+    "email": "monheim@neanderfunk.de",
+    "facebook": "https://www.facebook.com/FreifunkMonheim",
+    "twitter": "@ff_neanderfunk"
   },
-  "metacommunity": "Neanderfunk",
+  "metacommunity": "Neanderland",
   "state": {
     "focus": [
-      "Public Free Wifi"
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
     ],
-    "lastchange": "2016-07-25T19:52:50.287Z"
+    "lastchange": "2018-02-13T22:07:51.476Z"
   },
   "nodeMaps": [
     {
       "url": "https://mon.karte.neanderfunk.de/data/nodelist.json",
-      "technicalType": "nodelist"
+      "technicalType": "hopglass"
     }
   ],
   "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de"
+    },
+    "routing": [
+      "batman-adv"
+    ],
     "updatemode": [
+      "manual",
       "autoupdate"
     ],
-    "routing": [],
     "legals": []
   },
   "api": "0.4.14"
