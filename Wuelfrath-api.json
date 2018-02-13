@@ -1,0 +1,51 @@
+{
+  "name": "Freifunk Wülfrath",
+  "url": "https://www.neanderfunk.de/",
+  "location": {
+    "city": "Wülfrath",
+    "country": "DE",
+    "lat": 51.28231994027674,
+    "lon": 7.032451629638672
+  },
+  "contact": {
+    "email": "wuelfrath@neanderfunk.de",
+    "facebook": "https://www.facebook.com/FF.Neanderfunk/",
+    "twitter": "@ff_neanderfunk"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "description": "Förderverein Freifunk im Neanderland e.V.",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-02-13T21:52:45.001Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://wlf.karte.neanderfunk.de/data/nodelist.json",
+      "technicalType": "hopglass"
+    }
+  ],
+  "socialprojects": {
+    "number": 4,
+    "contact": "kontakt@neanderfunk.de"
+  },
+  "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "manual",
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.4.14"
+}

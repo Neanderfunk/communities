@@ -1,0 +1,49 @@
+{
+  "name": "Freifunk Erkrath",
+  "url": "https://erkrath.neanderfunk.de/",
+  "location": {
+    "city": "Erkrath",
+    "country": "DE",
+    "lat": 51.2187121115024,
+    "lon": 6.921730041503906
+  },
+  "contact": {
+    "email": "erkrath@neanderfunk.de",
+    "facebook": "https://www.facebook.com/FF.Neanderfunk/",
+    "twitter": "@ff_neanderfunk"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "description": "Förderverein Freifunk im Neanderland e.V.",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-01-23T22:11:49.858Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://erk.karte.neanderfunk.de/data/nodelist.json",
+      "technicalType": "hopglass"
+    }
+  ],
+  "socialprojects": {
+    "contact": "kontakt@neanderfunk.de"
+  },
+  "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.4.14"
+}

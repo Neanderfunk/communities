@@ -1,0 +1,49 @@
+{
+  "name": "Neanderfunk",
+  "url": "https://www.neanderfunk.de/",
+  "location": {
+    "city": "Ratingen",
+    "country": "DE",
+    "lat": 51.28167570765906,
+    "lon": 6.84722900390625
+  },
+  "contact": {
+    "email": "ratingen@neanderfunk.de",
+    "facebook": "https://www.facebook.com/FF.Neanderfunk/",
+    "twitter": "@ff_neanderfunk"
+  },
+  "metacommunity": "Eulenfunk",
+  "state": {
+    "description": "Förderverein Freifunk im Neanderland e.V.",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-01-23T22:16:35.684Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://erk.karte.neanderfunk.de/data/nodelist.json",
+      "technicalType": "hopglass"
+    }
+  ],
+  "socialprojects": {
+    "contact": "kontakt@neanderfunk.de"
+  },
+  "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.4.14"
+}
