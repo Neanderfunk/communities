@@ -26,7 +26,12 @@
   "nodeMaps": [
     {
       "url": "https://wlf.karte.neanderfunk.de/data/nodelist.json",
-      "technicalType": "hopglass"
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://wlf.karte.neanderfunk.de/",
+      "technicalType": "hopglass",
+      "mapType": "geographical"
     }
   ],
   "socialprojects": {

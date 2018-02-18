@@ -12,7 +12,7 @@
     "facebook": "https://www.facebook.com/FreifunkMonheim",
     "twitter": "@ff_neanderfunk"
   },
-  "metacommunity": "Neanderland",
+  "metacommunity": "Neanderfunk",
   "state": {
     "focus": [
       "infrastructure/backbone",
@@ -25,7 +25,7 @@
   "nodeMaps": [
     {
       "url": "https://mon.karte.neanderfunk.de/data/nodelist.json",
-      "technicalType": "hopglass"
+      "technicalType": "nodelist"
     }
   ],
   "techDetails": {

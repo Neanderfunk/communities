@@ -26,7 +26,7 @@
   "nodeMaps": [
     {
       "url": "https://hld.karte.neanderfunk.de/data/nodelist.json",
-      "technicalType": "hopglass"
+      "technicalType": "nodelist"
     }
   ],
   "socialprojects": {
