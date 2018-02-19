@@ -12,7 +12,7 @@
     "facebook": "https://www.facebook.com/FF.Neanderfunk/",
     "twitter": "@ff_neanderfunk"
   },
-  "metacommunity": "Eulenfunk",
+  "metacommunity": "Neanderfunk",
   "state": {
     "description": "Förderverein Freifunk im Neanderland e.V.",
     "focus": [
@@ -26,6 +26,7 @@
   "nodeMaps": [
     {
       "url": "https://han.karte.neanderfunk.de/data/nodelist.json",
+      "interval": "1",
       "technicalType": "nodelist"
     }
   ],

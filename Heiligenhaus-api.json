@@ -26,6 +26,7 @@
   "nodeMaps": [
     {
       "url": "https://hlg.karte.neanderfunk.de/data/nodelist.json",
+      "interval": "1",
       "technicalType": "nodelist"
     }
   ],
