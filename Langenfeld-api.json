@@ -1,14 +1,14 @@
 {
-  "name": "Freifunk Wülfrath",
-  "url": "https://www.neanderfunk.de/",
+  "name": "Freifunk Langenfeld",
+  "url": "https://langenfeld.neanderfunk.de/",
   "location": {
-    "city": "Wülfrath",
+    "city": "Langenfeld",
     "country": "DE",
-    "lat": 51.28231994027674,
-    "lon": 7.032451629638672
+    "lat": 51.112467546,
+    "lon": 6.951341629
   },
   "contact": {
-    "email": "wuelfrath@neanderfunk.de",
+    "email": "langenfeld@neanderfunk.de",
     "facebook": "https://www.facebook.com/FF.Neanderfunk/",
     "twitter": "@ff_neanderfunk"
   },
@@ -21,25 +21,21 @@
       "Social Community Building",
       "Free internet access"
     ],
-    "lastchange": "2018-02-13T21:52:45.001Z"
+    "lastchange": "2018-01-23T22:11:49.858Z"
   },
   "nodeMaps": [
     {
-      "url": "https://wlf.karte.neanderfunk.de/data/nodelist.json",
+      "url": "https://lgf.karte.neanderfunk.de/data/nodelist.json",
+      "interval": "1",
       "technicalType": "nodelist"
     },
     {
-      "url": "https://nef10wlf.karte.neanderfunk.de/data/nodelist.json",
+      "url": "https://nef09lgf.karte.neanderfunk.de/data/nodelist.json",
+      "interval": "1",
       "technicalType": "nodelist"
-    },
-    {
-      "url": "https://wlf.karte.neanderfunk.de/",
-      "technicalType": "hopglass",
-      "mapType": "geographical"
-    }
+    }  
   ],
   "socialprojects": {
-    "number": 4,
     "contact": "kontakt@neanderfunk.de"
   },
   "techDetails": {
@@ -51,7 +47,6 @@
       "batman-adv"
     ],
     "updatemode": [
-      "manual",
       "autoupdate"
     ],
     "legals": []

@@ -32,6 +32,11 @@
       "url": "https://vel.karte.neanderfunk.de/",
       "technicalType": "hopglass",
       "mapType": "geographical"
+    },
+    {
+      "url": "https://nef01vel.karte.neanderfunk.de/",
+      "technicalType": "hopglass",
+      "mapType": "geographical"
     }
   ],
   "socialprojects": {

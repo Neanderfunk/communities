@@ -28,6 +28,11 @@
       "url": "https://erk.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
+    },
+    {
+      "url": "https://nef07erk.karte.neanderfunk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
     }
   ],
   "socialprojects": {

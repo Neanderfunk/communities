@@ -28,6 +28,10 @@
     {
       "url": "https://met.karte.neanderfunk.de/data/nodelist.json",
       "technicalType": "nodelist"
+    },
+    {
+      "url": "https://nef02met.karte.neanderfunk.de/data/nodelist.json",
+      "technicalType": "nodelist"
     }
   ],
   "techDetails": {
