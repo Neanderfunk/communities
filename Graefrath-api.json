@@ -1,5 +1,5 @@
 {
-  "name": "Freifunk Grefrath/LVR-HPH",
+  "name": "Freifunk Gräfrath/Rheinland/LVR-HPH",
   "url": "https://www.neanderfunk.de/",
   "location": {
     "city": "Gräfrath",
@@ -8,7 +8,7 @@
     "lon": 7.032451629638672
   },
   "contact": {
-    "email": "grefrath@neanderfunk.de",
+    "email": "graefrath@neanderfunk.de",
     "facebook": "https://www.facebook.com/FF.Neanderfunk/",
     "twitter": "@ff_neanderfunk"
   },
