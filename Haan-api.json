@@ -33,6 +33,46 @@
       "url": "https://nef06han.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
+    },
+    {
+      "url": "https://olddus.map.ffdus.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://dusuk12.map.ffdus.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://dusfl13.map.ffdus.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://wupbar14.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://mrh15.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://gmb16.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://wip17.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://nef11lvr.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
     }
   ],
   "socialprojects": {
