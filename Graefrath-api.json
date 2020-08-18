@@ -25,21 +25,17 @@
   },
   "nodeMaps": [
     {
-      "url": "https://wlf.karte.neanderfunk.de/data/nodelist.json",
+      "url": "https://nef11lvr.karte.neanderfunk.de/data/nodelist.json",
       "technicalType": "nodelist"
     },
     {
-      "url": "https://nef10wlf.karte.neanderfunk.de/data/nodelist.json",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://wlf.karte.neanderfunk.de/",
+      "url": "https://nef11lvr.karte.neanderfunk.de/",
       "technicalType": "hopglass",
       "mapType": "geographical"
     }
   ],
   "socialprojects": {
-    "number": 4,
+    "number": 1,
     "contact": "kontakt@neanderfunk.de"
   },
   "techDetails": {
