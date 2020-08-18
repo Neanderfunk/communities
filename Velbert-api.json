@@ -29,9 +29,8 @@
       "technicalType": "nodelist"
     },
     {
-      "url": "https://vel.karte.neanderfunk.de/",
-      "technicalType": "hopglass",
-      "mapType": "geographical"
+      "url": "https://nef10vel.karte.neanderfunk.de/data/nodelist.json",
+      "technicalType": "nodelist"
     },
     {
       "url": "https://nef01vel.karte.neanderfunk.de/",
