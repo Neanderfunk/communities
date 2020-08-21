@@ -1,11 +1,11 @@
 {
-  "name": "Freifunk Gräfrath/LVR-HPH",
+  "name": "Freifunk im Wülfrath",
   "url": "https://www.neanderfunk.de/",
   "location": {
-    "city": "Gräfrath",
+    "city": "Wülfrath",
     "country": "DE",
-    "lat": 51.28231994027674,
-    "lon": 7.032451629638672
+    "lat": 51.281997825,
+    "lon": 7.036056519
   },
   "contact": {
     "email": "kontakt@neanderfunk.de",
