@@ -25,10 +25,6 @@
   },
   "nodeMaps": [
     {
-      "url": "https://wlf.karte.neanderfunk.de/data/nodelist.json",
-      "technicalType": "nodelist"
-    },
-    {
       "url": "https://nef10wlf.karte.neanderfunk.de/data/nodelist.json",
       "technicalType": "nodelist"
     },

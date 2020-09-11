@@ -25,11 +25,6 @@
   },
   "nodeMaps": [
     {
-      "url": "https://hld.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
       "url": "https://nef04hld.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"

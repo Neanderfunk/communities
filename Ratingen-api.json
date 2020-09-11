@@ -25,11 +25,6 @@
   },
   "nodeMaps": [
     {
-      "url": "https://rat.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
       "url": "https://nef03rat.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"

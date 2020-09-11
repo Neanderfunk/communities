@@ -24,11 +24,6 @@
   },
   "nodeMaps": [
     {
-      "url": "https://mon.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
       "url": "https://nef05mon.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
