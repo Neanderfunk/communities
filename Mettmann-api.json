@@ -22,18 +22,51 @@
       "Social Community Building",
       "Free internet access"
     ],
-    "lastchange": "2018-02-13T22:08:33.175Z"
+    "lastchange": "2021-10-27T06:44:40.598Z"
   },
+  "feeds": [
+    {
+      "name": "Neanderfunk-Blog",
+      "category": "blog",
+      "type": "RSS",
+      "url": "https://www.neanderfunk.de/feed"
+    },
+    {
+      "name": "Neanderfunk-Termine",
+      "category": "ics",
+      "type": "ICS",
+      "url": "https://www.neanderfunk.de/termine?ical=1"
+    }
+  ],
   "nodeMaps": [
     {
       "url": "https://nef02met.karte.neanderfunk.de/data/nodelist.json",
+      "interval": "5",
       "technicalType": "nodelist"
     }
   ],
+  "support": {
+    "club": {
+      "name": "Förderverein Freifunk im Neanderland e.V.",
+      "street": "Kirschbaumstr. 16",
+      "zip": "42489",
+      "city": "Wülfrath",
+      "url": "https://www.neanderfunk.de",
+      "email": "vorstand@neanderfunk.de"
+    },
+    "donations": {
+      "bankaccount": {
+        "IBAN": "DE68 3015 0200 0002 1321 24",
+        "BIC": "WELADED1KSD",
+        "usage": "WELADED1KSD"
+      }
+    }
+  },
   "techDetails": {
     "firmware": {
       "name": "Gluon",
-      "url": "https://routersoftware.ffnef.de/firmware/"
+      "url": "https://routersoftware.ffnef.de/firmware/",
+      "docs": "https://github.com/eulenfunk/firmware/"
     },
     "routing": [
       "batman-adv"
@@ -44,5 +77,5 @@
     ],
     "legals": []
   },
-  "api": "0.4.14"
+  "api": "0.4.16"
 }
