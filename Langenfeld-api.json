@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Langenfeld",
-  "url": "https://langenfeld.neanderfunk.de/",
+  "url": "https://www.neanderfunk.de/",
   "location": {
     "city": "Langenfeld",
     "country": "DE",
@@ -28,7 +28,7 @@
       "url": "https://nef09lgf.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
-    }  
+    }
   ],
   "socialprojects": {
     "contact": "kontakt@neanderfunk.de"
