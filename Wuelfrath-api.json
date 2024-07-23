@@ -1,5 +1,5 @@
 {
-  "name": "Freifunk im Wülfrath",
+  "name": "Freifunk Wülfrath",
   "url": "https://www.neanderfunk.de/",
   "location": {
     "city": "Wülfrath",
@@ -10,7 +10,7 @@
   "contact": {
     "email": "kontakt@neanderfunk.de",
     "facebook": "https://www.facebook.com/FF.Neanderfunk/",
-    "twitter": "@ff_neanderfunk"
+    "mastodon": "@neanderfunk@nrw.social"
   },
   "metacommunity": "Neanderfunk",
   "state": {
@@ -29,7 +29,7 @@
       "technicalType": "nodelist"
     },
     {
-      "url": "https://wlf.karte.neanderfunk.de/",
+      "url": "https://nef10wlf.karte.neanderfunk.de/",
       "technicalType": "hopglass",
       "mapType": "geographical"
     }
