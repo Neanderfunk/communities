@@ -10,7 +10,7 @@
   "contact": {
     "email": "monheim@neanderfunk.de",
     "facebook": "https://www.facebook.com/FreifunkMonheim",
-    "mastodon": "@neanderfunk@nrw.social"
+    "mastodon": "https://nrw.social/@neanderfunk"
   },
   "metacommunity": "Neanderfunk",
   "state": {
@@ -42,5 +42,5 @@
     ],
     "legals": []
   },
-  "api": "0.4.14"
+  "api": "0.5.2"
 }
