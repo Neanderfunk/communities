@@ -4,8 +4,10 @@
   "location": {
     "city": "Langenfeld",
     "country": "DE",
-    "lat": 51.112467546,
-    "lon": 6.951341629
+    "geoCode": {
+      "lat": 51.112467546,
+      "lon": 6.951341629
+    }
   },
   "contact": {
     "email": "langenfeld@neanderfunk.de",

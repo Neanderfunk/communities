@@ -4,8 +4,10 @@
   "location": {
     "city": "Heiligenhaus",
     "country": "DE",
-    "lat": 51.3264,
-    "lon": 6.97175
+    "geoCode": {
+      "lat": 51.3264,
+      "lon": 6.97175
+    }
   },
   "contact": {
     "email": "heiligenhaus@neanderfunk.de",

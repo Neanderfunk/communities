@@ -4,8 +4,10 @@
   "location": {
     "city": "Hilden",
     "country": "DE",
-    "lat": 51.1706,
-    "lon": 6.93841
+    "geoCode": {
+      "lat": 51.1706,
+      "lon": 6.93841
+    }
   },
   "contact": {
     "email": "hilden@neanderfunk.de",

@@ -4,8 +4,10 @@
   "location": {
     "city": "Mettmann",
     "country": "DE",
-    "lat": 51.2558,
-    "lon": 6.9705
+    "geoCode": {
+      "lat": 51.2558,
+      "lon": 6.9705
+    }
   },
   "contact": {
     "email": "mettmann@neanderfunk.de",
@@ -77,5 +79,5 @@
     ],
     "legals": []
   },
-  "api": "0.4.16"
+  "api": "0.5.2"
 }

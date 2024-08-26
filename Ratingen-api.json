@@ -4,8 +4,10 @@
   "location": {
     "city": "Ratingen",
     "country": "DE",
-    "lat": 51.28167570765906,
-    "lon": 6.84722900390625
+    "geoCode": {
+      "lat": 51.28167570765906,
+      "lon": 6.84722900390625
+    }
   },
   "contact": {
     "email": "ratingen@neanderfunk.de",

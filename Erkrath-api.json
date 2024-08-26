@@ -4,8 +4,10 @@
   "location": {
     "city": "Erkrath",
     "country": "DE",
-    "lat": 51.2187121115024,
-    "lon": 6.921730041503906
+    "geoCode": {
+      "lat": 51.2187121115024,
+      "lon": 6.921730041503906
+    }
   },
   "contact": {
     "email": "erkrath@neanderfunk.de",

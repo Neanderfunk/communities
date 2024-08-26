@@ -4,8 +4,10 @@
   "location": {
     "city": "Gräfrath",
     "country": "DE",
-    "lat": 51.28231994027674,
-    "lon": 7.032451629638672
+    "geoCode": {
+      "lat": 51.28231994027674,
+      "lon": 7.032451629638672
+    }
   },
   "contact": {
     "email": "graefrath@neanderfunk.de",

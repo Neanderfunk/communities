@@ -4,8 +4,10 @@
   "location": {
     "city": "Haan",
     "country": "DE",
-    "lat": 51.1923,
-    "lon": 7.0066
+    "geoCode": {
+      "lat": 51.1923,
+      "lon": 7.0066
+    }
   },
   "contact": {
     "email": "haan@neanderfunk.de",

@@ -4,8 +4,10 @@
   "location": {
     "city": "Wülfrath",
     "country": "DE",
-    "lat": 51.281997825,
-    "lon": 7.036056519
+    "geoCode": {
+      "lat": 51.281997825,
+      "lon": 7.036056519
+    }
   },
   "contact": {
     "email": "kontakt@neanderfunk.de",

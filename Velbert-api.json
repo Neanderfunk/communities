@@ -4,8 +4,10 @@
   "location": {
     "city": "Velbert, Neviges, Langenberg",
     "country": "DE",
-    "lat": 51.33661771600667,
-    "lon": 7.0786285400390625
+    "geoCode": {
+      "lat": 51.33661771600667,
+      "lon": 7.0786285400390625
+    }
   },
   "contact": {
     "email": "velbert@neanderfunk.de",

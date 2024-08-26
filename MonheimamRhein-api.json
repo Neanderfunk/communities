@@ -4,8 +4,10 @@
   "location": {
     "city": "Monheim am Rhein",
     "country": "DE",
-    "lat": 51.09166,
-    "lon": 6.89277
+    "geoCode": {
+      "lat": 51.09166,
+      "lon": 6.89277
+    }
   },
   "contact": {
     "email": "monheim@neanderfunk.de",
