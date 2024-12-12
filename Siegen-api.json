@@ -1,0 +1,52 @@
+{
+  "name": "Freifunk Siegen",
+  "url": "https://www.neanderfunk.de/",
+  "location": {
+    "city": "Siegen",
+    "country": "DE",
+    "geoCode": {
+      "lat": 50.87440,
+      "lon": 8.02604
+    }
+  },
+  "contact": {
+    "email": "siegen@neanderfunk.de",
+    "facebook": "https://www.facebook.com/FF.Neanderfunk/",
+    "mastodon": "https://nrw.social/@neanderfunk"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "description": "Förderverein Freifunk im Neanderland e.V.",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-01-23T22:11:49.858Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://nef40sim.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    }
+  ],
+  "socialprojects": {
+    "contact": "kontakt@neanderfunk.de"
+  },
+  "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.5.2"
+}
