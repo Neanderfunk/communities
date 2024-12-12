@@ -1,0 +1,51 @@
+{
+  "name": "Freifunk Solingen",
+  "url": "https://www.neanderfunk.de/",
+  "location": {
+    "city": "Solingen",
+    "country": "DE",
+    "geoCode": {
+      "lat": 51.17388,
+      "lon": 7.084741
+    }
+  },
+  "contact": {
+    "email": "solingen@neanderfunk.de",
+    "mastodon": "https://nrw.social/@neanderfunk"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "description": "Förderverein Freifunk im Neanderland e.V.",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-01-23T22:11:49.858Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://nef30sol.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    }
+  ],
+  "socialprojects": {
+    "contact": "kontakt@neanderfunk.de"
+  },
+  "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.5.2"
+}
