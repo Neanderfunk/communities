@@ -25,7 +25,7 @@
   },
   "nodeMaps": [
     {
-      "url": "https://nef37siwin.karte.neanderfunk.de/data/nodes.json",
+      "url": "https://nef42siwil.karte.neanderfunk.de/data/nodes.json",
       "interval": "1",
       "technicalType": "nodelist"
     }
