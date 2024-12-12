@@ -1,0 +1,47 @@
+{
+  "name": "Freifunk Düsseldorf-Flingern",
+  "url": "https://www.neanderfunk.de",
+  "location": {
+    "city": "Flingern",
+    "country": "DE",
+    "geoCode": {
+      "lat": 51.225169577,
+      "lon": 6.811416149
+    }
+  },
+  "contact": {
+    "email": "filgern@ffdus.de",
+    "mastodon": "https://nrw.social/@neanderfunk"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-02-13T22:07:51.476Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://dusfl13.map.ffdus.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "manual",
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.5.2"
+}
