@@ -1,0 +1,47 @@
+{
+  "name": "Freifunk Bad Laasphe",
+  "url": "https://www.neanderfunk.de",
+  "location": {
+    "city": "Bad Laasphe",
+    "country": "DE",
+    "geoCode": {
+      "lat": 50.926829453,
+      "lon": 8.410758376
+    }
+  },
+  "contact": {
+    "email": "badlaasphe@neanderfunk.de",
+    "mastodon": "https://nrw.social/@neanderfunk"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-02-13T22:07:51.476Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://nef42siwil.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "manual",
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.5.2"
+}
