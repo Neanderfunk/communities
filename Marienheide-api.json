@@ -1,0 +1,47 @@
+{
+  "name": "Freifunk Marienheide",
+  "url": "https://www.neanderfunk.de",
+  "location": {
+    "city": "Marienheide",
+    "country": "DE",
+    "geoCode": {
+      "lat": 51.0834,
+      "lon": 7.5311
+    }
+  },
+  "contact": {
+    "email": "marienheide@neanderfunk.de",
+    "mastodon": "https://nrw.social/@neanderfunk"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2024-12-12T16:07:51.476Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://mrh15.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "manual",
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.5.2"
+}

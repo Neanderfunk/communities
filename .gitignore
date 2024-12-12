@@ -1,0 +1,15 @@
+DEADJOE
+gluon
+secret.key
+images
+images-*
+assembled
+modules/
+modules-*
+*.key
+*~
+prepared
+.DS_Store
+*.log
+.log
+*.lock
