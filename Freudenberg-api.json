@@ -1,0 +1,47 @@
+{
+  "name": "Freifunk Freudenberg",
+  "url": "https://www.neanderfunk.de",
+  "location": {
+    "city": "Freudenberg",
+    "country": "DE",
+    "geoCode": {
+      "lat": 50.895637226,
+      "lon": 7.873892597
+    }
+  },
+  "contact": {
+    "email": "freundenberg@neanderfunk.de",
+    "mastodon": "https://nrw.social/@neanderfunk"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-02-13T22:07:51.476Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://nef38siwiw.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "manual",
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.5.2"
+}
