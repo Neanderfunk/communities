@@ -54,15 +54,8 @@
       "zip": "42489",
       "city": "Wülfrath",
       "url": "https://www.neanderfunk.de",
-      "email": "vorstand@neanderfunk.de"
+      "email": "vorstand@neanderfunk.de"    
     },
-    "donations": {
-      "bankaccount": {
-        "IBAN": "DE68 3015 0200 0002 1321 24",
-        "BIC": "WELADED1KSD",
-        "usage": "WELADED1KSD"
-      }
-    }
   },
   "techDetails": {
     "firmware": {
