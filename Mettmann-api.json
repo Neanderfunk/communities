@@ -23,7 +23,7 @@
       "Social Community Building",
       "Free internet access"
     ],
-    "lastchange": "2021-10-27T06:44:40.598Z"
+    "lastchange": "2025-02-25T09:44:00+01:00"
   },
   "feeds": [
     {
@@ -36,7 +36,7 @@
       "name": "Neanderfunk-Termine",
       "category": "ics",
       "type": "ICS",
-      "url": "https://www.neanderfunk.de/termine?ical=1"
+      "url": "https://cloud.neanderfunk.de/remote.php/dav/public-calendars/Tm5rgRiD8osBeoZT/?export"
     }
   ],
   "nodeMaps": [
