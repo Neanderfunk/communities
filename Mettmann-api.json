@@ -12,7 +12,6 @@
   "contact": {
     "email": "mettmann@neanderfunk.de",
     "phone": "+49 156 78529460",
-    "facebook": "https://www.facebook.com/FF.Neanderfunk/",
     "mastodon": "https://nrw.social/@neanderfunk"
   },
   "metacommunity": "Neanderfunk",
@@ -55,7 +54,7 @@
       "city": "Wülfrath",
       "url": "https://www.neanderfunk.de",
       "email": "vorstand@neanderfunk.de"
-    },
+    }
   },
   "techDetails": {
     "firmware": {
