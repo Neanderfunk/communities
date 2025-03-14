@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Mettmann",
-  "url": "https://www.neanderfunk.de",
+  "url": "https://neanderfunk.de",
   "location": {
     "city": "Mettmann",
     "country": "DE",
@@ -23,14 +23,14 @@
       "Social Community Building",
       "Free internet access"
     ],
-    "lastchange": "2025-02-25T09:44:00+01:00"
+    "lastchange": "2025-03-14T19:21:00+01:00"
   },
   "feeds": [
     {
       "name": "Neanderfunk-Blog",
       "category": "blog",
       "type": "RSS",
-      "url": "https://www.neanderfunk.de/feed/"
+      "url": "https://neanderfunk.de/feed/"
     },
     {
       "name": "Neanderfunk-Termine",
