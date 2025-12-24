@@ -25,20 +25,7 @@
     ],
     "lastchange": "2025-03-14T19:21:00+01:00"
   },
-  "feeds": [
-    {
-      "name": "Neanderfunk-Blog",
-      "category": "blog",
-      "type": "RSS",
-      "url": "https://neanderfunk.de/feed/"
-    },
-    {
-      "name": "Neanderfunk-Termine",
-      "category": "ics",
-      "type": "ICS",
-      "url": "https://cloud.neanderfunk.de/remote.php/dav/public-calendars/Tm5rgRiD8osBeoZT/?export"
-    }
-  ],
+  "feeds": [],
   "nodeMaps": [
     {
       "url": "https://nef02met.karte.neanderfunk.de/data/nodelist.json",
