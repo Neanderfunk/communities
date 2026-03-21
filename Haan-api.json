@@ -52,22 +52,12 @@
       "technicalType": "nodelist"
     },
     {
-      "url": "https://dusfl13.map.ffdus.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
       "url": "https://wip17.karte.neanderfunk.de/data/nodes.json",
       "interval": "1",
       "technicalType": "nodelist"
     },
     {
       "url": "https://nef11lvr.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https:///data/nodes.json",
       "interval": "1",
       "technicalType": "nodelist"
     },
@@ -108,16 +98,6 @@
     },
     {
       "url": "https://nef38siwiw.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https:///data/nodes.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https:///data/nodes.json",
       "interval": "1",
       "technicalType": "nodelist"
     }
