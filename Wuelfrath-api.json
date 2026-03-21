@@ -31,6 +31,10 @@
       "technicalType": "nodelist"
     },
     {
+      "url": "https://nef10wlf.karte.neanderfunk.de/data/nodes.json",
+      "technicalType": "Yannic"
+    },
+    {
       "url": "https://nef10wlf.karte.neanderfunk.de/",
       "technicalType": "hopglass",
       "mapType": "geographical"
