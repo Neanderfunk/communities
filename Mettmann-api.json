@@ -41,6 +41,11 @@
   ],
   "nodeMaps": [
     {
+      "url": "https://nef02met.karte.neanderfunk.de/data/nodes.json",
+      "interval": "5",
+      "technicalType": "yannic"
+    },
+    {
       "url": "https://nef02met.karte.neanderfunk.de/data/nodelist.json",
       "interval": "5",
       "technicalType": "nodelist"
