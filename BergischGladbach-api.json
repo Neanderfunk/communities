@@ -27,8 +27,13 @@
     {
       "url": "https://rbk43gl.karte.neanderfunk.de/data/nodes.json",
       "interval": "1",
+      "technicalType": "yannic"
+    },
+    {
+      "url": "https://rbk43gl.karte.neanderfunk.de/data/nodelist.json",
+      "interval": "1",
       "technicalType": "nodelist"
-    }
+    }    
   ],
   "techDetails": {
     "firmware": {
