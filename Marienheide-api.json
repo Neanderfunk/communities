@@ -27,6 +27,11 @@
     {
       "url": "https://mrh15.karte.neanderfunk.de/data/nodes.json",
       "interval": "1",
+      "technicalType": "yannic"
+    },
+    {
+      "url": "https://mrh15.karte.neanderfunk.de/data/nodelist.json",
+      "interval": "1",
       "technicalType": "nodelist"
     }
   ],
