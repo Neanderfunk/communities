@@ -29,9 +29,13 @@
     {
       "url": "https://nef40sim.karte.neanderfunk.de/data/nodes.json",
       "interval": "1",
+      "technicalType": "yannic"
+    },
+    {
+      "url": "https://nef40sim.karte.neanderfunk.de/data/nodelist.json",
+      "interval": "1",
       "technicalType": "nodelist"
-    }
-  ],
+    }  ],
   "socialprojects": {
     "contact": "kontakt@neanderfunk.de"
   },
