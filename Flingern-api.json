@@ -50,12 +50,22 @@
       "technicalType": "nodelist"
     },
     {
+      "url": "https://nef30sol.karte.neanderfunk.de/data/nodelist.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
       "url": "https://nef30sol.karte.neanderfunk.de/data/nodes.json",
       "interval": "1",
       "technicalType": "nodelist"
     },
     {
       "url": "https://wupbar14.karte.neanderfunk.de/data/nodes.json",
+      "interval": "1",
+      "technicalType": "nodelist"
+    },
+    {
+      "url": "https://wupbar14.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
     },
