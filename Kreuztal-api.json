@@ -25,11 +25,6 @@
   },
   "nodeMaps": [
     {
-      "url": "https://nef39sin.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
-    },
-    {
       "url": "https://nef39sin.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
