@@ -27,10 +27,6 @@
   },
   "nodeMaps": [
     {
-      "url": "https://nef11lvr.karte.neanderfunk.de/data/nodes.json",
-      "technicalType": "yannic"
-    },
-    {
       "url": "https://nef11lvr.karte.neanderfunk.de/data/nodelist.json",
       "technicalType": "nodelist"
     },
