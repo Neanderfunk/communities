@@ -29,15 +29,6 @@
     {
       "url": "https://nef10wlf.karte.neanderfunk.de/data/nodelist.json",
       "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef10wlf.karte.neanderfunk.de/data/nodes.json",
-      "technicalType": "yannic"
-    },
-    {
-      "url": "https://nef10wlf.karte.neanderfunk.de/",
-      "technicalType": "hopglass",
-      "mapType": "geographical"
     }
   ],
   "socialprojects": {
