@@ -32,25 +32,10 @@
       "technicalType": "nodelist"
     },
     {
-      "url": "https://dusuk12.map.ffdus.de/data/nodelist.json",
+      "url": "https://nef18uk.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
     },
-    {
-      "url": "https://dusukn22.map.ffdus.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://dusuks23.map.ffdus.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://dusukw24.map.ffdus.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },    
     {
       "url": "https://wip17.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
