@@ -27,16 +27,10 @@
   },
   "nodeMaps": [
     {
-      "url": "https://nef07erk.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
-    },
-    {
       "url": "https://rbk45bs.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
-    }
-    
+    }    
   ],
   "socialprojects": {
     "contact": "kontakt@neanderfunk.de"
