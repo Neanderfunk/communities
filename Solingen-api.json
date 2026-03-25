@@ -26,11 +26,6 @@
   },
   "nodeMaps": [
     {
-      "url": "https://nef30sol.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
-    },
-    {
       "url": "https://nef30sol.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
