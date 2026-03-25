@@ -57,46 +57,6 @@
       "technicalType": "nodelist"
     },
     {
-      "url": "https://nef11lvr.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef31lvrno.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef32lvrnw.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef33lvrmo.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef34lvrmw.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef35lvrso.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef36lvrsw.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef37siwin.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },
-    {
       "url": "https://nef38siwiw.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
