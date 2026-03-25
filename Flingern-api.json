@@ -25,19 +25,9 @@
   },
   "nodeMaps": [
     {
-      "url": "https://dusfl13.map.ffdus.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
-    },
-    {
       "url": "https://dusfl13.map.ffdus.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef18uk.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
     },
     {
       "url": "https://nef18uk.karte.neanderfunk.de/data/nodelist.json",
@@ -45,19 +35,9 @@
       "technicalType": "nodelist"
     },
     {
-      "url": "https://nef19agi.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
-    },
-    {
       "url": "https://nef19agi.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef20grt.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
     },
     {
       "url": "https://nef20grt.karte.neanderfunk.de/data/nodelist.json",
@@ -65,19 +45,9 @@
       "technicalType": "nodelist"
     },
     {
-      "url": "https://nef21dias.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
-    },
-    {
       "url": "https://nef21dias.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
-    },
-    {
-      "url": "https://wupbar14.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
     },
     {
       "url": "https://wupbar14.karte.neanderfunk.de/data/nodelist.json",
@@ -85,19 +55,9 @@
       "technicalType": "nodelist"
     },
     {
-      "url": "https://map.freifunk-wuppertal.net/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
-    },
-    {
       "url": "https://map.freifunk-wuppertal.net/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef37siwin.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
     },
     {
       "url": "https://nef37siwin.karte.neanderfunk.de/data/nodelist.json",
@@ -105,19 +65,9 @@
       "technicalType": "nodelist"
     },
     {
-      "url": "https://nef40sim.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
-    },
-    {
       "url": "https://nef40sim.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef41sis.karte.neanderfunk.de/data/nodes.json",
-      "interval": "1",
-      "technicalType": "yannic"
     },
     {
       "url": "https://nef41sis.karte.neanderfunk.de/data/nodelist.json",
