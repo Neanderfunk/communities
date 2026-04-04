@@ -1,0 +1,60 @@
+{
+  "name": "Neanderfunk",
+  "url": "https://www.neanderfunk.de/",
+  "location": {
+    "city": "Wülfrath",
+    "country": "DE",
+    "geoCode": {
+      "lat": 51.281997825,
+      "lon": 7.036056519
+    }
+  },
+  "contact": {
+    "mastodon": "https://nrw.social/@neanderfunk"
+  },
+  "metacommunity": "Neanderfunk",
+  "state": {
+    "description": "Förderverein Freifunk im Neanderland e.V.",
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2020-08-17T21:52:45.001Z"
+  },
+  "nodeMaps": [],
+  "socialprojects": {
+    "number": 4,
+    "contact": "kontakt@neanderfunk.de"
+  },
+  "techDetails": {
+    "firmware": {
+      "url": "http://routersoftware.ffnef.de",
+      "vpnaccess": "automatic"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "manual",
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.5.2",
+  "feeds": [
+    {
+      "category": "blog",
+      "type": "RSS",
+      "name": "Neanderfunk-Blog",
+      "url": "https://neanderfunk.de/feed/"
+    },
+    {
+      "category": "ics",
+      "name": "Neanderfunk-Termine",
+      "type": "ICS",
+      "url": "https://cloud.neanderfunk.de/remote.php/dav/public-calendars/Tm5rgRiD8osBeoZT/?export"
+    }
+  ]
+}
