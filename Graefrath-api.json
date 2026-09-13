@@ -59,16 +59,6 @@
       "url": "https://nef36lvrsw.karte.neanderfunk.de/data/nodelist.json",
       "interval": "1",
       "technicalType": "nodelist"
-    },
-    {
-      "url": "https://nef37siwin.karte.neanderfunk.de/data/nodelist.json",
-      "interval": "1",
-      "technicalType": "nodelist"
-    },    
-    {
-      "url": "https://nef11lvr.karte.neanderfunk.de/",
-      "technicalType": "hopglass",
-      "mapType": "geographical"
     }
   ],
   "socialprojects": {
